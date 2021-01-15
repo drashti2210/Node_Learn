@@ -24,3 +24,8 @@ Creating small notes application
 ## Section 5: Debugging Node.js
 Debugging using Chrome://inspect & debugger in VSCode\
 Understanding Error Messages
+
+## Section 6: Asynchronous Node.js
+Creating Weather App using APIs\
+Extracting json response \
+Using Commandline Arguments for fetching data
