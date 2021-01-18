@@ -60,13 +60,13 @@ request({ url: geocodeURL, json: true }, (error, response) => {
 
 // // Abstract Callbacks
 geocode('Navsari', (error, data) => {
-    console.log('Error', error)
-    console.log('Data', data)
+    console.log(`Error ${error}`)
+    console.log(`Data ${data}`)
 })
 
 forecast(20.95056, 72.92306, (error, data) => {
-    console.log('Error', error)
-    console.log('Data', data)
+    console.log(`Error ${error}`)
+    console.log(`Data ${data}`)
 })
 
 // Take input from command line
