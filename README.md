@@ -24,3 +24,11 @@ Creating small notes application
 ## Section 5: Debugging Node.js
 Debugging using Chrome://inspect & debugger in VSCode\
 Understanding Error Messages
+
+## Section 6: Web Servers
+Exploring express.js\
+Creating some templates for view 
+
+## Section 7: Accessing APIs
+Using APIs to fetch data\
+Creating client side view & fetching data from server side
